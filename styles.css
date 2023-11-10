@@ -1,0 +1,247 @@
+
+section>img{
+    max-width: 30rem;
+    margin-left: 3rem;
+    margin-top: 10rem;
+
+}
+
+h2{
+    border: 2px solid #FF5757;
+    max-width: fit-content;
+   
+   padding: 1rem 2rem;
+margin-left: 24rem;
+margin-top: 20rem;
+
+}
+.contact>p{
+    position: relative;
+    bottom: 35rem;
+    left: 40rem;
+    text-align:left;
+font-size: large;
+line-height: 100px;
+}
+
+body{
+    background-color: #FDFBF5;
+}
+header>nav{
+    text-align: center;
+    word-spacing: 4rem;
+    font-size: large;
+    margin-top: 20rem;
+    position: relative;
+    top: 1rem;
+}
+header{
+    text-align: center;
+}
+.column {
+    background-color:#FDFBF5;
+    width: 90%;
+    padding: 10px;
+    float: right;
+    border: 2px solid #FF5757;
+    margin: 30px;
+    line-height: 200%;
+    text-align: center;
+    font-size: medium;
+    margin-top: 10rem;
+   
+    position:relative;
+    
+ 
+  
+   }
+   .experience>section{
+float: right;
+padding-left: 20rem;
+   }
+   .experience{
+    position:relative;
+    padding-top: 15rem;
+   }
+.about{
+    position:relative;
+    padding-bottom: 1rem;
+}
+.about h2{
+    position:absolute;
+    bottom: 26.9rem;
+    right: 1rem;}
+   
+
+
+
+.experience h2{
+    bottom: 10rem;
+    right: 30rem;
+    top: 2rem
+}
+
+
+
+
+header>img{
+    position: relative;
+  float: left;
+ max-width: 14%;
+ left: 6rem;
+}
+.contact>h2{
+    top: 11rem;
+    right: 15rem;
+    align-items: center;
+    left: 15rem;
+   }
+
+.contact img{
+max-width: 50%;}
+
+@media (max-width: 800px)
+ {
+    .about>img{
+        position: relative;
+right: 2rem;
+max-width: 30rem;
+margin-left: 3rem;
+margin-top: 10rem;
+    }
+      
+      .column{
+        position: relative;
+       bottom: 19rem;
+       width: 90%; }
+       
+  nav>a{
+    position: relative;
+    top: 2rem;
+  }
+
+.contact img{
+    margin: auto;
+    padding-left: 6rem;
+}
+.projects>section{
+    position: relative;
+left: 1rem;
+right: 1rem;
+}
+.contact h2{
+    position: relative;
+    left: .01rem;
+    top: .5rem;
+}
+.contact>p{
+    position: relative;
+    bottom: 26rem;
+    left: 34rem;
+    text-align:left;
+font-size: large;
+line-height: 100px;
+}
+    
+}
+.projects>img{
+    max-width: 100%;
+height: auto;
+margin-top: 1rem;
+}
+
+ 
+@media (min-width: 1100px)
+{
+    header>img{
+        max-width: 10%;
+        position: relative;
+
+        float: left;
+        left: 20rem;
+    }
+    .about>img{
+        max-width: 33%;
+    }
+    .about h2{
+      left: 19rem;
+      bottom: 32rem;
+      
+    }
+   .column{
+bottom: 20rem;
+float: right;
+position: relative;
+bottom: 10rem;
+
+   }
+   .projects>img{
+    width: 40%;
+    justify-content: center;   
+    align-items: flex-end;
+    position: relative;
+    left: 15rem;
+
+   }
+   .projects p{
+    text-align: center;
+   }
+   .contact>h2{
+    top: 11rem;
+    right: 15rem;
+    align-items: center;
+    left: 15rem;
+   }
+.experience h2{
+    position: relative;
+    left: 25rem;
+    bottom: 2rem;
+}
+.experience{
+    position: relative;
+    bottom: 10rem;
+}
+.experience>p{
+    position: relative;
+    left: 6rem;
+    top: 5rem;
+    
+}
+.projects h2{
+    position: relative;
+    left: 25rem;
+
+}
+.contact img{
+    width: 200%;
+    position: relative;
+    left: 20rem;
+
+}
+.contact{
+   bottom: 18rem;
+}
+.contact>p{
+    position: relative;
+    left: 74rem;
+}
+nav>a{
+    position: relative;
+    bottom: 2rem;
+}
+    }
+    nav>a:hover{
+    color:   #FF5757;
+    text-decoration: underline;
+    }
+    nav>a{
+        color: black;
+        text-decoration: none;
+    }
+    .img img{
+        width: 25%;
+        position: relative;
+        bottom: 24rem;
+        left: 14rem;
+  }
+
